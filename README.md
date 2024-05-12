@@ -51,9 +51,3 @@ Executar o código utilizando o comando
 ```bash
    dotnet run
 ```
-
-<br/>
-
-## Agradecimentos
-
-Apesar de não ter concluido todos objetivos do projeto, agradeço pela oportunidade de me desafiar e ter meu primeiro contato com a linguagem C# e seus desafios. Certamente irei estudar mais e continuar me desafiando nela.
