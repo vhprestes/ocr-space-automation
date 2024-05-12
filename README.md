@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Bem vindo ao projeto de automação para extração de dados em pdf utilizando a OCR space desenvolvido por Victor Hugo Soares Prestes Martins com objetivo de aprender e me aprofundar na linguagem e no consumo de api OCR para criar automações.
+Bem vindo ao projeto de automação para extração de dados em pdf utilizando a API OCR space desenvolvido por Victor Hugo Soares Prestes Martins com objetivo de aprender e me aprofundar na linguagem e no consumo de api OCR para criar automações.
 <br/>
 
 ## Requisitos
