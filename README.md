@@ -42,6 +42,10 @@ Bem vindo ao projeto de automação para extração de dados em pdf utilizando a
 ```
 
 <br/>
+
+## Usabilidade
+
+Aqui só serão disponibilizados arquivos de minha autoria, porém, para fins acadêmicos, esta disponibilizado no arquivo data.json como vem a resposta da API depois de ser tratada, que é de onde tratamos e tiramos os dados. O código funciona com qualquer resposta nesses padrões, que foram feitos para certo tipo de invoice
 <br/>
 
 ## Execução do código
