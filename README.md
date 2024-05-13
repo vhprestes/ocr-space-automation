@@ -20,7 +20,7 @@ Bem vindo ao projeto de automação para extração de dados em pdf utilizando a
 
 - Extraia o projeto em uma nova pasta e execute o arquivo Program.cs utilizando o vs code.
 
-- Como o projeto foi enviado em .zip, as dependências ja se encontram no projeto. Caso haja a necessidade de reinstala-las, basta abrir uma janela to terminal (atalho: Ctrl + Shift + ` ) e executar os comandos:
+- As dependências precisam ser instaladas e para isso basta abrir uma janela to terminal (atalho: Ctrl + Shift + ` ) e executar os comandos:
 
 ```bash
    dotnet add package Newtonsoft.Json --version 13.0.3
