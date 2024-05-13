@@ -9,9 +9,9 @@ public class Program
 {
     static async Task Main(string[] args)
     {
-        string diretorio = @"C:\Users\Victor Prestes\Desktop\golivetech\";
+        string diretorio = @"INSIRA O CAMINHO AQUI";
         // Caminho para aonde estão os PDF
-        string APIKEY = "K81590871388957";
+        string APIKEY = "INSIRA AQUI SUA API KEY";
         var url = "https://api.ocr.space/parse/image"; // URL da API OCR Space
 
         // Chave da API OCR Space
